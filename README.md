@@ -1,2 +1,2 @@
 # Burp extensions
- Java & Python extensions for Burp Suite applications
+ Java extensions for Burp Suite application.
