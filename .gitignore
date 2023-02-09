@@ -1,0 +1,5 @@
+*/.settings
+*/src/burp/api
+*/.project
+*/.classpath
+*/bin/
